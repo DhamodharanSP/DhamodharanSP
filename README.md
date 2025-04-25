@@ -58,7 +58,7 @@ Feel free to explore the repository and discuss solutions!
 
 ## 📫 Connect With Me
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-2K%2B%20Followers-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dhamodharan-s-p-828170267/)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-1.3K%2B%20Followers-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dhamodharan-s-p-828170267/)  
 - [![Email](https://img.shields.io/badge/Email-gowthamdhamo24%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:gowthamdhamo24@gmail.com)  
 - [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/SPD-LEGEND/)  
 
