@@ -23,7 +23,7 @@
 ## 📂 Projects...
 
 ### 1. *Smart Criminal Detection*  
-   - *Tech Stack:* Python, MERN Stack, Cloudinary  
+   - *Tech Stack:* Python, MERN Stack, Cloudinary, Pytorch
    - 🚀 This project integrates AI and web technologies to enhance criminal detection efficiency.
 
 ### 2. *Smart Voter Verification System* 
