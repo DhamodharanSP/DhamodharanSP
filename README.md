@@ -22,7 +22,7 @@
 
 ## 📂 Projects...
 
-### 1. *Smart Criminal Detection*  
+### 1. *Sentinel Reconnaissance Intelligence*  
    - *Tech Stack:* Python, MERN Stack, Cloudinary, Pytorch
    - 🚀 This project integrates AI and web technologies to enhance criminal detection efficiency.
 
