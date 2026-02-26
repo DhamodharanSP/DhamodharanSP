@@ -24,7 +24,7 @@
 
 ### 1. *Sentinel Reconnaissance Intelligence*  
    - *Tech Stack:* Python, MERN Stack, Cloudinary, Pytorch
-   - 🚀 This project integrates AI and web technologies to enhance criminal detection efficiency.
+   - 🚀 This project integrates AI and web technologies to enhance criminal detection efficiency and it is developed within 36 hours at SIH2025 Grand finale, Indore, Madhya Pradesh.
 
 ### 2. *Smart Voter Verification System* 
    - *Tech Stack:* MERN Stack, NFC...
