@@ -254,15 +254,6 @@ Mobile workout-plan builder and progress tracker built with React Native (Expo) 
 
 </details>
 
-<details>
-<summary>🌱 Open Source Contributions</summary>
-<br/>
-
-- [ ] [PROJECT_NAME] — [brief description of contribution]
-- [ ] [PROJECT_NAME] — [brief description of contribution]
-
-</details>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
 
 <!-- ═══════════════════════════════════════════════════════════
